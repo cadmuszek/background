@@ -1,0 +1,55 @@
+body {
+	background-color: #161925;
+	font-family: 'Poor Story', cursive;
+	font-size: 25px;
+}
+
+h1  {
+	color: #C1292E;
+}
+
+p {
+	color: #235789;
+}
+
+ul {
+	color: #ADE25D;
+}
+
+.para {
+	color: #F61067;
+}
+
+.enter {
+    background-color: #F61067;
+    border: none;
+    color: #ADE25D;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: default;
+    border-radius: 4px;
+    opacity: 0.8;
+}
+#userInput {
+	background-color: #C1292E;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: cell;
+    border-radius: 6px;
+    text-decoration-color: white;
+    opacity: 0.8;
+}
+::placeholder {
+    color: white;
+    opacity: 0.4;
+}
